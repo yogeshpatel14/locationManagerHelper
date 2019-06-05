@@ -1,2 +1,2 @@
 # locationManagerHelper
-Created helper class for location manager
+helper class for location manager
